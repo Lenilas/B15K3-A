@@ -1,6 +1,6 @@
 {
     "name":"leni lasmini",
-    "age":23,
+    "age":24,
     "address":"kp. cigulingan rt/rw 002/003 ds. sukasirna kec. campakamulya-cianjur",
     "hobbies":["reading","coding","listening korean music"],
     "is_married":false,
